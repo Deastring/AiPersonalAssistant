@@ -1,7 +1,9 @@
 # AiPersonalAssistant
 A full-featured AI assistant like ChatGPT, capable of handling multiple tasks
 
-in 11th line of this code, create a API CODE using OpenAi website and put it in code. its ez at all.
+In 11th line of this code, create a API CODE using OpenAi website and put it in code. its ez at all.
+
+You also need to install these modules:
 ```yaml
-* YOUR TEXT GOES HERE *
+pip install openai speechrecognition pyttsx3 flask requests
 ```
