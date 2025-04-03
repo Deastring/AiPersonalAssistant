@@ -7,3 +7,10 @@ You also need to install these modules:
 ```yaml
 pip install openai speechrecognition pyttsx3 flask requests
 ```
+Run the Server:
+In the same directory where the script is saved, run:
+```yaml
+python ai_personal_assistant.py
+```
+This will start a Flask server on http://127.0.0.1:5000/.
+
